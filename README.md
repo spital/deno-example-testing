@@ -55,3 +55,6 @@ And by running via `deno run -A deno.sinus.terminal.ts` you get a sinus in the t
 
 [testing in deno - part 1 of 5](https://medium.com/deno-the-complete-reference/testing-with-deno-part-5-integration-tests-efcac6570b0d)
 
+
+Deno / Rusty-v8 in progress to get to upstream :: [spital/deno-riscv64#1](https://github.com/spital/deno-riscv64/issues/1)
+
